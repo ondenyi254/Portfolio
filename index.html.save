@@ -284,14 +284,10 @@
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
-                       
-                         <li>
-                                <a href=" https://github.com/ondenyi254" class="btn-social btn-outline" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
-</i></a>
-                            </li>
                          <li>
                                 <a href="https://ke.linkedin.com/in/eric-ondenyi-42b59bb4" class="btn-social btn-outline" target="_blank"><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
+
                              <li>
                                 <a href="https://twitter.com/EricOndenyi" class="btn-social btn-outline"  target="_blank"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
